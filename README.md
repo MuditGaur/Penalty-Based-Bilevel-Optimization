@@ -10,12 +10,5 @@ This repository implements a bilevel optimization framework for continuous contr
 - Trajectory-based gradient estimation
 - Modular and extensible architecture
 
-## Installation
-
-```bash
-git clone https://github.com/your-username/bilevel-optimization.git
-cd bilevel-optimization
-pip install -r requirements.txt
-
 ## Current Status
 This code is currently in the hyperparameter optimization phase.
